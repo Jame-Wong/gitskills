@@ -1,0 +1,12 @@
+file4.txt:
+This is code developed by BBN to support the
+2016 TAC KBP Event Argument and Linking Shared Task.
+A description of this task will be released soon.
+
+This repository contains three artifacts:
+* `tac-kbp-eal` contains classes to represent system responses and assessments for
+the task. While these are mainly to support the executables in this repository,
+if your system is based on Java or another JVM language, you are strongly encouraged
+to use them.  Note that they can be used from Python via Jython.
+* `tac-kbp-eal-scorer` contains the scoring code.
+* `bin` contains all the non-java executables
